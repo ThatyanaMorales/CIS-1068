@@ -1,2 +1,2 @@
-# myclasses
-All my small projects from classes/online
+# CIS-1068
+Lab assignments from Program Design & Abstraction (Java 1)
